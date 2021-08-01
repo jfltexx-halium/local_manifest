@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="jfltexx-halium" fetch="https://github.com/jfltexx-halium" revision="halium-9.0" />
+  <project name="android_device_samsung_jfltexx" path="device/samsung/jfltexx" remote="jfltexx-halium" />
+  <project name="android_device_samsung_jf-common" path="device/samsung/jf-common" remote="jfltexx-halium" />
+  <project name="android_kernel_samsung_jf" path="kernel/samsung/jf" remote="jfltexx-halium" />
+  <project name="proprietary_vendor_samsung" path="vendor/samsung" remote="jfltexx-halium" />
+</manifest>
